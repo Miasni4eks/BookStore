@@ -1,0 +1,46 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\Domain.dll.config
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\Domain.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\Domain.pdb
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\EntityFramework.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\EntityFramework.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Desktop\Практика\Роман\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Desktop\Практика\Роман\BookStore\Domain\obj\Debug\Domain.dll
+D:\Desktop\Практика\Роман\BookStore\Domain\obj\Debug\Domain.pdb

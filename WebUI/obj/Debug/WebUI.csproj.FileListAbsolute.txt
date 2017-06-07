@@ -1,0 +1,67 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.pdb
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\WebUI.dll.config
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\WebUI.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\WebUI.pdb
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Domain.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\EntityFramework.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Moq.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.Web.Common.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Helpers.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Mvc.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Razor.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\WebActivatorEx.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Domain.pdb
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\EntityFramework.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Moq.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.Web.Common.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Razor.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Helpers.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\bin\System.Web.Mvc.xml
+D:\Desktop\Практика\Роман\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Desktop\Практика\Роман\BookStore\WebUI\obj\Debug\WebUI.dll
+D:\Desktop\Практика\Роман\BookStore\WebUI\obj\Debug\WebUI.pdb
